@@ -53,13 +53,13 @@ Just run:
 To install `spaCy` and download at least some common models (for Spanish and English), run:
 
     pip install spacy
-    python -m spacy download es
-    python -m spacy download en
+    python -m spacy download es_core_news_md
+    python -m spacy download en_core_web_md
 
 If you have any problems with these two last commands, try to install the models as if they were Python libraries. Run:
 
-    pip install https://github.com/explosion/spacy-models/releases/download/es_core_news_sm
-    pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm
+    pip install https://github.com/explosion/spacy-models/releases/download/es_core_news_md
+    pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_md
 
 
 ## `flair`
