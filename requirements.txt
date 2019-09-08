@@ -16,9 +16,7 @@ decorator==4.4.0
 defusedxml==0.6.0
 Deprecated==1.2.6
 docutils==0.15.2
-en-core-web-md==2.1.0
 entrypoints==0.3
-es-core-news-md==2.1.0
 flair==0.4.3
 future==0.17.1
 gensim==3.8.0
